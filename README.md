@@ -3,7 +3,7 @@ Prework Application
 ## Hello
 
 ### App Description
-`TODO://` Add app description
+`TODO://` prework project that allows user to click the text label to change the text color of "Hello"
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
